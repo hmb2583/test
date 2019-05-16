@@ -18,6 +18,8 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "fontawesome": "^5.8.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "requirejs": "^2.3.6",
+    "knockout": "knockout.js#^3.1.0"
   }
 }
