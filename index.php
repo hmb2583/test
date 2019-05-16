@@ -19,5 +19,10 @@
 </head>
 <body>
     <h1>Hola Mundo</h1>
+    <div id="aplicacion">
+        <input data-bind="value: nombre" />
+        <div data-bind="text-nombre">  
+        </div>
+    </div>
 </body>
 </html>
